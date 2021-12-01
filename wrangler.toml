@@ -1,0 +1,11 @@
+name = "form"
+type = "javascript"
+
+account_id = "3bdde41077cd532e06ba9b823ab6554c"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-12-01"
+kv_namespaces = [
+         { binding = "PMC_test", id = "0ca326649a9f4210b46a69af9a581da9", preview_id: "0ca326649a9f4210b46a69af9a581da9" }
+]
